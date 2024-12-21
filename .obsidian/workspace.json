@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "ae46b3251ce52a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "136fb0d40b964b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3033cd6dc74124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/1114 mock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1114 mock"
+            }
+          },
+          {
+            "id": "44cbd9c54764af2e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "b51772391bd3ee19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/0721 mock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0721 mock"
+            }
+          },
+          {
+            "id": "fd5dae9c76850317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignments/Final-HW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final-HW"
+            }
+          },
+          {
+            "id": "4228aad6b1039a38",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/0806-mock.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0806-mock"
+            }
+          },
+          {
+            "id": "a018fb9e4aa6de6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignments/Final-HW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final-HW"
+            }
+          },
+          {
+            "id": "9ba57bff25b9fc35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab8c3f25c8b0870d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8c0f12773c0595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef86cc8481a729a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6ab38fe9ed00086a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "55d7b5499a16c598",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "079b258297a5853f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40c94471a154b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1810cc54e4604b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interview/1114 mock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1114 mock 的反向链接列表"
+            }
+          },
+          {
+            "id": "8831fc99098c40ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interview/1114 mock.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1114 mock 的出链列表"
+            }
+          },
+          {
+            "id": "9c281537390e362e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f0af4e48c3bc3f19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1108面试准备.md"
+              },
+              "icon": "lucide-list",
+              "title": "1108面试准备 的大纲"
+            }
+          },
+          {
+            "id": "4eef280031845b1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0ea958051c9a9772",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2ef86cc8481a729a",
+  "lastOpenFiles": [
+    "Assignments/Old-Assign/hw3.md",
+    "Assignments/Final-HW.md",
+    "QAs八股文/0929开会笔记.md",
+    "Interview/questions-mock.md",
+    "1108面试准备.md",
+    "Knowledge/16-Kotlin.md",
+    "Knowledge/未命名.md",
+    "时间轴.md",
+    "Images/ShockedLiyiyi.mp4",
+    "Interview/0806-mock.md",
+    "feedback.md",
+    "需要处理的问题.md",
+    "未命名 1.md",
+    "未命名.md",
+    "讲解 leetcode 的面试.md",
+    "办公室政治？.md",
+    "Interview/1114 mock.md",
+    "Interview/0721 mock.md",
+    "1113面试准备.md",
+    "1121 - Evelyn interview record.md",
+    "Knowledge/5-1 Spring.md",
+    "0617-面试准备.md",
+    "Interview/0626给人mock.md",
+    "Interview/0721 tech mock sup.md",
+    "Interview/0614SalesVp.md",
+    "Knowledge/11-2 monitoring.md",
+    "Knowledge/2-4 hashmap & equals.md",
+    "Interview/Grokking_The_Java_Developer_Interview_More_Than_200_Questions_To.pdf",
+    "Images/Pasted image 20240627143420.png",
+    "求职",
+    "Images/Pasted image 20231124143638.png",
+    "Images/Pasted image 20231124142916.png",
+    "Images/Pasted image 20231124142902.png",
+    "Images/Pasted image 20231124142858.png",
+    "Images/Pasted image 20231114155755.png",
+    "Images/Pasted image 20231114142243.png",
+    "Images/Pasted image 20231107184757.png",
+    "Slides/22-Java8.pdf",
+    "Images/Pasted image 20231105142317.png",
+    "Images/Pasted image 20231031113946.png",
+    "Slides/50-Microservice.pdf",
+    "Slides/52-System Design-Chuwa-v23.6.1.pdf",
+    "Slides/70-HTML-CSS-bootstrap-Javascript.pdf",
+    "Slides/72-React-Angular.pdf",
+    "Assignments/finalBigHomework.pdf",
+    "Slides/41-Spring-Data.pdf"
+  ]
+}
